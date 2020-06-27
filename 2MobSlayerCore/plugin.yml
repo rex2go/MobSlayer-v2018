@@ -1,0 +1,6 @@
+name: MobSlayerCore
+version: 1.0
+author: rex2go
+main: com.rex2go.mobslayer_core.MobSlayerCore
+loadbefore: [ProtocolLib]
+depend: [ProtocolLib]
